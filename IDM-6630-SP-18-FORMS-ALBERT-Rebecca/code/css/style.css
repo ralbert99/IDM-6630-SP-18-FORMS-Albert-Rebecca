@@ -1,0 +1,46 @@
+.nav {
+    display: inline-block;
+    position: relative;
+    padding-right: 20px;
+    font-size: 18px;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #ff0080;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+h1, h2 {
+	text-align: center;
+	padding: 2em 0;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+h2 {
+	font-style: oblique;
+}
+
+input[type=text] {
+    font-family: sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #FFFFCC;
+    font-family: sans-serif;
+    border: none;
+    color: #666;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 5px 10px;
+    cursor: pointer;
+}
